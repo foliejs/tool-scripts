@@ -6,4 +6,5 @@
   * shell
   * nodejs
   * php
+  * python
  
